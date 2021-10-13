@@ -1,0 +1,22 @@
+{
+  "name": "htmjson",
+  "version": "1.0.0",
+  "description": "A parser from json to html",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brunohgv/htmjson.git"
+  },
+  "author": "Bruno Vasconcelos (brunohgv)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohgv/htmjson/issues"
+  },
+  "homepage": "https://github.com/brunohgv/htmjson#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
